@@ -2,42 +2,22 @@ import java.util.*;
 
 class Solution {
     public static int[] findMissingAndRepeatedValues(int[][] grid) {
-        int repeat = 0;
-        int missing = 0;
         int n = grid.length;
-        for (int i = 0; i < grid.length; i++) {
+        int[] freq = new int[n*n + 1];
+        for (int i = 0; i < n; i++) {
             for (int j = 0; j < grid[i].length; j++) {
-                int current = grid[i][j];
-                int count = 0;
-                for (int x = 0; x < n; x++) {
-                    for (int y = 0; y < grid[x].length; y++) {
-                        if (grid[x][y] == current) {
-                            count++;
-                        }
-                    }
-                }
-
-                if (count == 2) {
-                    repeat = current;
-                }
+                freq[grid[i][j]]++;
             }
         }
 
-        int total = n * n;
-
-        for (int num = 1; num <= total; num++) {
-            int count = 0;
-
-            for (int i = 0; i < n; i++) {
-                for (int j = 0; j < grid[i].length; j++) {
-                    if (grid[i][j] == num) {
-                        count++;
-                    }
-                }
+        int repeat = 0;
+        int missing = 0;
+        for (int nums = 1; nums <= n*n; nums++) {
+            if(freq[nums] == 2){
+                repeat = nums;
             }
-
-            if (count == 0) {
-                missing = num;
+            if(freq[nums] == 0) {
+                missing = nums;
             }
         }
 
