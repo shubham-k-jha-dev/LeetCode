@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
