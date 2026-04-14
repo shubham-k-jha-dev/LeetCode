@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Recursion
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0901-online-stock-span](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0901-online-stock-span) |
 ## Design
 |  |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0901-online-stock-span) |
+## String
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
