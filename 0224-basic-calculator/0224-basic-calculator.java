@@ -28,11 +28,9 @@ class Solution {
             } 
             
             else if (ch == '(') {
-                // push current result and sign
                 stack.push(result);
                 stack.push(sign);
 
-                // reset for new expression
                 result = 0;
                 sign = 1;
             } 
@@ -41,13 +39,11 @@ class Solution {
                 result += sign * number;
                 number = 0;
 
-                // first pop sign, then result
-                result *= stack.pop(); // sign
-                result += stack.pop(); // previous result
+                result *= stack.pop(); 
+                result += stack.pop(); 
             }
         }
 
-        // add last number
         result += sign * number;
 
         return result;
