@@ -93,10 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0224-basic-calculator) |
+| [0232-implement-queue-using-stacks](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0901-online-stock-span) |
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
