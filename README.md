@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0217-contains-duplicate) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0224-basic-calculator) |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
