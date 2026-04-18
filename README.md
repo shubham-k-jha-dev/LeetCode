@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -139,11 +140,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Binary Tree
 |  |
 | ------- |
@@ -166,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Graph Theory
+|  |
+| ------- |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 <!---LeetCode Topics End-->
