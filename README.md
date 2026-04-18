@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0207-course-schedule) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Binary Tree
 |  |
@@ -176,9 +178,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0207-course-schedule) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0200-number-of-islands) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
