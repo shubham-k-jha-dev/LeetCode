@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0200-number-of-islands) |
 | [2965-find-missing-and-repeated-values](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0200-number-of-islands) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Binary Tree
 |  |
@@ -173,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
