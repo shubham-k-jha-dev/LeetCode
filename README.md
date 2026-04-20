@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0136-single-number) |
@@ -206,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
