@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2965-find-missing-and-repeated-values](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -196,4 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0207-course-schedule) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/shubham-k-jha-dev/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
